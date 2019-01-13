@@ -7,7 +7,7 @@ Reads BMP pictures and outputs the following:
 4. A greyscale version of the picture
 5. A black and white version of the picture with ordered dithering applied
 
-Accepted BMP files need to be in 24-bit color uncompressed mode, and no larger than 704x576 in resolution.
+Accepted BMP files need to be in 24-bit color uncompressed mode, and no larger than 704x576 in resolution.<br>
 Test samples are provided in their respective folder.
 
 ## Sample Output
