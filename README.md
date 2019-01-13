@@ -14,4 +14,4 @@ Test samples are provided in their respective folder.
 ![Sample Output](https://github.com/EricSHuang/365-BMP-Reader/blob/master/sample%20outputs.PNG)
 
 ## Context
-Made as a school project for CMPT365 in June 2018.
+Made for a school project for CMPT365 in June 2018.
