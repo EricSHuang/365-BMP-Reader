@@ -1,8 +1,8 @@
 # 365-BMP-Reader
-##Function
+## Function
 Reads BMP pictures and outputs the following:
 1. A copy of the picture
-2. A histogram of the RGB channels
+2. A histogram for each of the RGB channels
 3. A copy of the picture that is 1.5times brighter
 4. A greyscale version of the picture
 5. A black and white version of the picture with ordered dithering applied
